@@ -10,7 +10,7 @@ export const Navbar = () => {
 
         <div className="navContent">
           <div className="navLinks"></div>
-          <Link to="/">All Posts Matter</Link>
+          <Link to="/">All Posts</Link>
         </div>
       </section>
     </nav>
